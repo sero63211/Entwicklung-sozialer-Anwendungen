@@ -1,0 +1,11 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\target\scala-2.13\classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.9. Compiling...
+[info]   Compilation completed in 7.821s.
+[info] done compiling
+[success] Total time: 10 s, completed 20.10.2022, 14:20:40
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

@@ -1,0 +1,17 @@
+[debug] Packaging C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\target\scala-2.13\uebung1_2.13-1.0.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	uebung1
+[debug] 	  C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\target\scala-2.13\classes\uebung1
+[debug] 	uebung1\App$.class
+[debug] 	  C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\target\scala-2.13\classes\uebung1\App$.class
+[debug] 	uebung1\App.class
+[debug] 	  C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\target\scala-2.13\classes\uebung1\App.class
+[debug] 	uebung1\FirstApplication$.class
+[debug] 	  C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\target\scala-2.13\classes\uebung1\FirstApplication$.class
+[debug] 	uebung1\FirstApplication$delayedInit$body.class
+[debug] 	  C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\target\scala-2.13\classes\uebung1\FirstApplication$delayedInit$body.class
+[debug] 	uebung1\FirstApplication.class
+[debug] 	  C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\target\scala-2.13\classes\uebung1\FirstApplication.class
+[debug] 	uebung1\Rational.class
+[debug] 	  C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\target\scala-2.13\classes\uebung1\Rational.class
+[debug] Done packaging.
