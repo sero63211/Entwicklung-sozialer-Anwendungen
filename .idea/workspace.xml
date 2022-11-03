@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b57876d4-c6a3-4caa-92d3-36b8bde59b86" name="Changes" comment="initial version" />
+    <list default="true" id="b57876d4-c6a3-4caa-92d3-36b8bde59b86" name="Changes" comment="initial version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ubueng2/Uebung2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ubueng2/Uebung2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ubueng2/Uebung2Worksheet.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ubueng2/Uebung2Worksheet.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/uebung1/worksheet1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/uebung1/worksheet1.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/uebung3/TestWorksheet.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/uebung3/TestWorksheet.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/uebung3/Uebung3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/uebung3/Uebung3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/test/TestUebung3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/test/TestUebung3.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,11 +31,20 @@
       <list>
         <option value="Class" />
         <option value="Package Object" />
+        <option value="Scala Worksheet" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,17 +53,28 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2GOmppQhWkCgq6dATYPkkOemdhd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="com.github.copilot.settings.ApplicationConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.FirstApplication">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\src\main\scala\uebung1" />
+      <recent name="C:\Users\serha\Documents\UNI\4. Semester\Entwicklung_Sozialer_Anwendungen\Uebung1\Uebung1\src\main\scala\uebung3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="ScalaTest.TestUebung3">
     <configuration name="App" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="uebung1.App" />
       <module name="Uebung1" />
@@ -114,6 +142,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestUebung3" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Uebung1" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="testClassPath" value="test.TestUebung3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UebungZweiTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="Uebung1" />
       <option name="allowRunningInParallel" value="false" />
@@ -134,9 +175,11 @@
       <item itemvalue="sbt Task.Unnamed" />
       <item itemvalue="ScalaTest.RationalTest" />
       <item itemvalue="ScalaTest.UebungZweiTest" />
+      <item itemvalue="ScalaTest.TestUebung3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.TestUebung3" />
         <item itemvalue="Application.FirstApplication" />
         <item itemvalue="Application.App" />
       </list>
@@ -176,7 +219,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial version" />
     <option name="LAST_COMMIT_MESSAGE" value="initial version" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
